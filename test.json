@@ -4,7 +4,7 @@
         "de": "Willkommen in imitoCam!",
         "fr": "Bienvenue sur imitoCam!"
     },
-   "key": "NO_PATIENT_IN_THE_LIST_DESCRIPTION" : {
+   "NO_PATIENT_IN_THE_LIST_DESCRIPTION" : {
         "en": "There are no patients connected to your account. \nPlease use “Identify Patient” button below to start working with patients.",
         "de": "Es sind momentan keine Patienten mit Ihrem Konto verknüpft. \nBitte beginnen Sie unten mit “Patient identifizieren”.",
         "fr": "Il n’y a pour le moment aucun patient associé à votre compte. \nVeuillez commencer par \"identifier un patient\" ci-dessous."
