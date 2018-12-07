@@ -1,12 +1,18 @@
 {
-   "NO_PATIENT_IN_THE_LIST" : {
-        "en": "Welcome to imitoCam!",
-        "de": "Willkommen in imitoCam!",
-        "fr": "Bienvenue sur imitoCam!"
+    "hello": {
+        "message": "Ahoj světe!\n",
+        "description": "Description"
     },
-   "NO_PATIENT_IN_THE_LIST_DESCRIPTION" : {
-        "en": "There are no patients connected to your account. \nPlease use “Identify Patient” button below to start working with patients.",
-        "de": "Es sind momentan keine Patienten mit Ihrem Konto verknüpft. \nBitte beginnen Sie unten mit “Patient identifizieren”.",
-        "fr": "Il n’y a pour le moment aucun patient associé à votre compte. \nVeuillez commencer par \"identifier un patient\" ci-dessous."
+    "orangutan": {
+        "message": "",
+        "description": "Description"
+    },
+    "try": {
+        "message": "",
+        "description": "Description"
+    },
+    "thanks": {
+        "message": "",
+        "description": "Description"
     }
 }
